@@ -1,0 +1,6 @@
+{
+  "name": "CareBridge - MediSpeak AI",
+  "description": "CareBridge patient healthcare portal featuring MediSpeak AI to simplify doctor medical terminology into plain patient-friendly language with Tamil translations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
